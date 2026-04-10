@@ -48,6 +48,8 @@ graphify's native skill.md is 8KB+, uses bash-specific syntax (`$()` subshells, 
 - Python 3.10+
 - `graphifyy` pip package (auto-installed by wrapper)
 
+> **Official package:** The PyPI package is named `graphifyy` (install with `pip install graphifyy`). Other packages named `graphify*` on PyPI are not affiliated with this project. The only official repository is [safishamsi/graphify](https://github.com/safishamsi/graphify). The CLI and skill command are still `graphify`.
+
 ## License
 
 MIT
